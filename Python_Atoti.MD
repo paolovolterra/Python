@@ -9,10 +9,10 @@ title: Business intelligence con ATOTI e Python
 	import pandas as pd
 	from sqlalchemy import create_engine
 
-	username = "pvolterr"
-	password = "84228422"
+	username = ""
+	password = ""
 	port = 3306
-	database = "aida"
+	database = ""
 
 	engine = create_engine('mysql+mysqldb://%s:%s@localhost:%i/%s'
 						   %(username, password, port, database))
