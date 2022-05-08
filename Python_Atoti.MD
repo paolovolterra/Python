@@ -4,6 +4,7 @@ title: Business intelligence con ATOTI e Python
 
 # Atoti e FdG
 
+```Python
 	import atoti as tt
 	import numpy as np
 	import pandas as pd
@@ -39,3 +40,4 @@ title: Business intelligence con ATOTI e Python
 	cube.schema
 
 	session.visualize()
+```
