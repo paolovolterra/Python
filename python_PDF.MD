@@ -2,6 +2,20 @@
 title: PDF
 ---
 
+
+# estrarre testo da PDF
+
+```Python
+from tika import parser
+raw = parser.from_file("BNL_20220507.pdf")
+raw = str(raw)
+safe_text = raw.encode('utf-8', errors='ignore')
+safe_text = str(safe_text).replace("\n", "").replace("\\", "")
+print('--- safe text ---' )
+print( safe_text )
+
+```
+
 # Preserve Whitespaces While Extracting PDF Text Using Python and Pytesseract
 An alternative way to extract PDF text using pdf2image and pytesseract
 
