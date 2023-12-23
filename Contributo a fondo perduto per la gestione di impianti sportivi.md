@@ -3,7 +3,7 @@
 ![](https://www.figc.it/media/127207/logo-dipartimento-per-lo-sport.png?anchor=center&mode=crop&width=730&height=358&rnd=132682855780000000)
 
 
-Oggi 2023-12-22 il Dipartimento per lo Sport della Presidenza del Consiglio dei Ministri ha pubblicato l'elenco dei [Contributi a fondo perduto: per le ASD/SSD beneficiarie](https://www.sport.governo.it/it/emergenza-covid-19/contributi-a-fondo-perduto-in-favore-delle-societa-e-associazioni-sportive-dilettantistiche/contributi-2023/contributi-a-fondo-perduto-pubblicato-lelenco-delle-asdssd-beneficiarie/)
+Oggi 2023-12-22 il Dipartimento per lo Sport della Presidenza del Consiglio dei Ministri ha pubblicato l'elenco dei [Contributi a fondo perduto per le ASD/SSD](https://www.sport.governo.it/it/emergenza-covid-19/contributi-a-fondo-perduto-in-favore-delle-societa-e-associazioni-sportive-dilettantistiche/contributi-2023/contributi-a-fondo-perduto-pubblicato-lelenco-delle-asdssd-beneficiarie/)
 
 Si tratta di un [PDF](https://www.sport.governo.it/media/jnak00r3/elenco-beneficiari-impianti-sportivi.pdf) di 208 pagine per 10.126 righe  
 
