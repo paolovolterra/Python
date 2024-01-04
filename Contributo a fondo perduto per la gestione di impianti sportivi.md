@@ -1,4 +1,4 @@
-# Contributo a fondo perduto per la gestione di impianti sportivi
+# Impianti sportivi
 
 ![](https://www.figc.it/media/127207/logo-dipartimento-per-lo-sport.png?anchor=center&mode=crop&width=730&height=358&rnd=132682855780000000)
 
